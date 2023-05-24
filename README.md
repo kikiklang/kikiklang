@@ -8,5 +8,5 @@
 
 
 <p align="center">
- Hell'o, im an overweight programmer specialized in staring screen for very long period of time and not moving too much from my chair 
+ Hell'o, im an programmer specialized in staring screen for very long period of time. 
 </p>
