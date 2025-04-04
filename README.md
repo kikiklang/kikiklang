@@ -8,5 +8,5 @@
 
 
 <p align="center">
- Hell'o, im an programmer specialized in staring screen for very long period of time. 
+ "Hello, I'm a programmer specialized in staring at screens for long periods of time."
 </p>
